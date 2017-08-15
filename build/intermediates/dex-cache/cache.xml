@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\asami\Desktop\Android Dev\flappyBird\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\asami\Desktop\Android Dev\flappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_110f0eba71c3e7e36fff970518227b7184a65385\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asami\Desktop\Android Dev\flappyBird\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14526a93bbae53485bf20f0f06f51480c8bec213">
+        <dex dex="C:\Users\asami\Desktop\Android Dev\flappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d726fdf586b2b30c33c1892430f004bb2b4e3317\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asami\Desktop\Android Dev\flappyBird\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="06fa6cd460bc1d5c46fabfa29a805a969f626d44">
+        <dex dex="C:\Users\asami\Desktop\Android Dev\flappyBird\android\build\intermediates\pre-dexed\debug\core-1.0_c0c36c5bd255b92175d1c86ee4446cf36fb48340.jar" />
+    </item>
+
+</items>
